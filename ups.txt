@@ -1,0 +1,895 @@
+
+#EXTM3U
+#EXTINF: -1 tvg-logo = "http://s17.postimg.org/d28s9ckuj/Spor_TV.png" group-title = "ESPORTES", Sport TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/16427
+
+#EXTINF: -1 tvg-logo = "http://s17.postimg.org/d28s9ckuj/Spor_TV.png" group-title = "ESPORTES", Sport TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/16427
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title = "ESPORTES", SPORT-TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/54415
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title = "ESPORTES", SPORT-TV 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/54410
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title = "ESPORTES", SPORT-TV 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/8783
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title = "ESPORTES", SPORT-TV 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/8783
+
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title = "ESPORTES", SPORT-TV 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/8784
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title = "ESPORTES", SPORT-TV 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/8784
+
+############################# FOX SPORT ################################ #################
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title = "ESPORTES", Fox Sports
+https://proxyts.canais.gratis:8443/hls1/foxsports1.m3u8
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title = "ESPORTES", Fox Sports
+https://proxyts.canais.gratis:8443/hls1/foxsports1.m3u8
+
+#EXTINF: -1 tvg-logo = "http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title = "ESPORTES", Fox Sports 2
+https://proxyts.canais.gratis:8443/hls1/foxsports2.m3u8
+
+#EXTINF: -1 tvg-logo = "http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title = "ESPORTES", Fox Sports 2
+https://proxyts.canais.gratis:8443/hls1/foxsports2.m3u8
+
+########################### ESPN ################################### ##################
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title = "ESPORTES", ESPN
+http://jessicatv.site:8080/scoffy/94c4179c1453/8793
+
+#EXTINF: -1 tvg-id = "ESPN" tvg-logo = "http://i.imgur.com/kcxzdPA.png" group-title = "ESPORTES", ESPN HD
+http://jessicatv.site:8080/scoffy/94c4179c1453/8793
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title = "ESPORTES", ESPN 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/8801
+
+#EXTINF: -1 tvg-id = "ESPN 2" tvg-logo = "http://i.imgur.com/Qp5B2ZB.png" group-title = "ESPORTES", ESPN 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/8801
+
+#EXTINF: -1 tvg-logo = "https://s19.postimg.org/bzkyqmgpv/ESPN_Brasil.png" group-title = "ESPORTES", ESPN Brasil
+http://jessicatv.site:8080/scoffy/94c4179c1453/10867
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/8m3Kqx" group-title = "ESPORTES", ESPN BRASIL
+http://jessicatv.site:8080/scoffy/94c4179c1453/10867
+
+#EXTINF: -1 tvg-id = "ESPN EXTRA" tvg-logo = "http://i.imgur.com/TW6ZY5p.png" group-title = "ESPORTES", ESPN Extra
+http://jessicatv.site:8080/scoffy/94c4179c1453/8789
+
+#EXTINF: -1 tvg-id = "ESPN EXTRA" tvg-logo = "http://i.imgur.com/TW6ZY5p.png" group-title = "ESPORTES", ESPN Extra HD
+http://jessicatv.site:8080/scoffy/94c4179c1453/8789
+
+#EXTINF: -1 tvg-logo = "https://img.ibxk.com.br/2016/11/programas/15563009143717446.png" group-title = "ESPORTES", EI PLUS HD
+http://jessicatv.site:8080/scoffy/94c4179c1453/14503
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNnKH7n20N7Lyh1xRgkI6I4JX5poS5MCLEs-W9b6soi-LHU9di&usqp=CAU" grupo ESPORTE
+http://jessicatv.site:8080/scoffy/94c4179c1453/43634
+
+#EXTINF: -1 tvg-logo = "https://icons.iconarchive.com/icons/martz90/hex/256/eurosport-icon.png" group-title = "ESPORTES", EURO SPORTS 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/16429
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpASal-DOshGgHNtrcmPjRe7wOGFeASCtmmBuLwSGTue2Yai8C&usqp=CAU" grupo-título 2 ESPORTES "EURO SPORTS"
+http://jessicatv.site:8080/scoffy/94c4179c1453/16434
+
+
+########################## BAND SPORTS ################################# ###############
+
+#EXTINF: -1 tvg-logo = "http://s9.postimg.org/55q56z7rj/bandsports.png" group-title = "ESPORTES", Band Sports
+https://proxyts.canais.gratis:8443/hls1/bandsports.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s9.postimg.org/55q56z7rj/bandsports.png" group-title = "ESPORTES", Band Sports
+https://proxyts.canais.gratis:8443/hls1/bandsports.m3u8
+
+######################## COMBATE #################################### ###############
+
+#EXTINF: -1 tvg-logo = "https://s32.postimg.org/7yy5aszit/combate2.png" group-title = "ESPORTES", Combate
+https://proxyts.canais.gratis:8443/hls1/combate.m3u8
+
+#EXTINF: -1 tvg-logo = "https://s32.postimg.org/7yy5aszit/combate2.png" group-title = "ESPORTES", Combate
+https://proxystream.canais.link:443/proxy.php?url=combate.m3u8
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/dOFWcWV.png" group-title = "ESPORTES", COMBATE FHD 
+http://jessicatv.site:8080/scoffy/94c4179c1453/8778
+
+################### TODOS OS ESPORTES ############################# ###############
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/H4X2xiN.png" group-title = "ESPORTES", TV TODOS OS ESPORTES
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1435644149.m3u8
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/H4X2xiN.png" group-title = "ESPORTES" group-title = "ESPORTES", TV TODOS OS ESPORTES
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1435644149.m3u8
+
+############################### FILMES E SERIES ########################## #######
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/en/2/2d/AMC_logo_2013.png" group-title = "Filmes e Series", AMC HD
+https://proxyts.canais.gratis:8443/hls1/amc.m3u8
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/en/2/2d/AMC_logo_2013.png" group-title = "Filmes e Series", AMC HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hablitz.biz:2050/a/hls1/amc.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/05/assistir-AE-ao-vivo-online-249x140.png" group-title = "Filmes e Series ", A e E HD
+http://tv.factoryiptv.com:80/4328/4328/36929
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/05/assistir-AE-ao-vivo-online-249x140.png" group-title = "Filmes e Series ", A e E HD
+http://tv.factoryiptv.com:80/4328/4328/36929
+
+#EXTINF: -1 tvg-logo = "http://s28.postimg.org/cqqksvb61/megapix.png" group-title = "Filmes e Series", Megapix HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hapixel.biz:2050/a/hls1/megapix.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s28.postimg.org/cqqksvb61/megapix.png" group-title = "Filmes e Series", Megapix HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hapixel.biz:2050/a/hls1/megapix.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title = "Filmes e Series", TC Action HD
+http://raw.github.com:80/Marciocn/repo.conexaoTV/master/addons.xml
+
+#EXTINF: -1 tvg-logo = "http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title = "Filmes e Series", TC Action HD
+http://raw.github.com:80/Marciocn/repo.conexaoTV/master/addons.xml
+
+
+#EXTINF: -1 tvg-logo = "http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title = "Filmes e Series", TC Premium HD
+https://proxystream.canais.link:443/proxy.php?url=telecinepremium.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title = "Filmes e Series", TC Premium HD
+https://proxystream.canais.link:443/proxy.php?url=telecinepremium.m3u8
+
+#EXTINF: -1 tvg-logo = "https://topcanais.com/wp-content/uploads/2019/08/telecinetouch-364x205.jpg" group-title = "Filmes e Series", TC Touch HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hapixel.biz:2050/a/hls1/telecinetouch.m3u8
+
+#EXTINF: -1 tvg-logo = "https://topcanais.com/wp-content/uploads/2019/08/telecinetouch-364x205.jpg" group-title = "Filmes e Series", TC Touch HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hapixel.biz:2050/a/hls1/telecinetouch.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title = "Filmes e Series", TC Fun HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habbo.net:2050/a/hls1/telecinefun.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title = "Filmes e Series", TC Fun HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habbo.net:2050/a/hls1/telecinefun.m3u8
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png" group-title = "Filmes e Series", TC Pipoca HD
+https://proxystream.canais.link:443/proxy.php?url=telecinepipoca.m3u8
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/1/1e/TC_Pipoca.png" group-title = "Filmes e Series", TC Pipoca HD
+https://proxystream.canais.link:443/proxy.php?url=telecinepipoca.m3u8
+
+#EXTINF: -1 tvg-logo = "https://topcanais.com/wp-content/uploads/2019/08/telecinecult-364x205.jpg" group-title = "Filmes e Series", TC Cult #
+https://proxystream.canais.link:443/proxy.php?url=telecinecult.m3u8
+
+#EXTINF: -1 tvg-logo = "https://topcanais.com/wp-content/uploads/2019/08/telecinecult-364x205.jpg" group-title = "Filmes e Series", TC Cult #
+https://proxystream.canais.link:443/proxy.php?url=telecinecult.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title = "Filmes e Series", HBO
+https://proxystream.canais.link:443/proxy.php?url=hbo.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title = "Filmes e Series", HBO
+https://proxystream.canais.link:443/proxy.php?url=hbo.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title = "Filmes e Series", HBO 2
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hablitz.biz:2050/a/hls1/hbo2.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title = "Filmes e Series", HBO 2
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hablitz.biz:2050/a/hls1/hbo2.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title = "Filmes e Series", HBO Plus
+https://proxystream.canais.link:443/proxy.php?url=hboplus.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title = "Filmes e Series", HBO Plus
+https://proxystream.canais.link:443/proxy.php?url=hboplus.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title = "Filmes e Series", assinatura da HBO
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hablitz.biz:2050/a/hls1/hbosignature.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title = "Filmes e Series", assinatura da HBO
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hablitz.biz:2050/a/hls1/hbosignature.m3u8
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title = "Filmes e Series", Família HBO
+https://serverts.canais.ink:443/hls1/hbofamily.m3u8
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title = "Filmes e Series", Família HBO
+https://serverts.canais.ink:443/hls1/hbofamily.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/Assisitir-fx-ao-vivo-249x140.png" group-title = "Filmes e Series", Raposa
+https://serverts.canais.ink:443/hls1/fox.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/Assisitir-fx-ao-vivo-249x140.png" group-title = "Filmes e Series", Raposa
+https://serverts.canais.ink:443/hls1/fox.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/12/Assistir-FOX-Premium-ao-vivo-online-hd-gr%C3%A1tis-249x140. png "group-title =" Filmes e Series ", Fox Life
+https://serverts.canais.ink:443/hls1/foxlife.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/12/Assistir-FOX-Premium-ao-vivo-online-hd-gr%C3%A1tis-249x140. png "group-title =" Filmes e Series ", Fox Life
+https://serverts.canais.ink:443/hls1/foxlife.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/12/Assistir-FOX-Premium-ao-vivo-online-hd-gr%C3%A1tis-249x140. png "group-title =" Filmes e Series ", Fox PREMIUM 1
+https://proxystream.canais.link:443/proxy.php?url=foxpremium1.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/12/Assistir-FOX-Premium-ao-vivo-online-hd-gr%C3%A1tis-249x140. png "group-title =" Filmes e Series ", Fox PREMIUM 1
+https://proxystream.canais.link:443/proxy.php?url=foxpremium1.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/12/Assistir-FOX-Premium-ao-vivo-online-hd-gr%C3%A1tis-249x140. png "group-title =" Filmes e Series ", Fox PREMIUM 2
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hablitz.biz:2050/a/hls1/foxpremium2.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/12/Assistir-FOX-Premium-ao-vivo-online-hd-gr%C3%A1tis-249x140. png "group-title =" Filmes e Series ", Fox PREMIUM 2
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.hablitz.biz:2050/a/hls1/foxpremium2.m3u8
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/6ktxs1ci3/universal.png" group-title = "Filmes e Series", Universal
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habbo.online:2050/a/hls1/universal.m3u8
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/6ktxs1ci3/universal.png" group-title = "Filmes e Series", Universal
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habbo.online:2050/a/hls1/universal.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s21.postimg.org/wv3r1264z/tnt.png" group-title = "Filmes e Series", TNT Filmes
+https://proxystream.canais.link:443/proxy.php?url=tnt.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s21.postimg.org/wv3r1264z/tnt.png" group-title = "Filmes e Series", TNT Filmes
+https://proxystream.canais.link:443/proxy.php?url=tnt.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s21.postimg.org/wv3r1264z/tnt.png" group-title = "Filmes e Series", TNT Series
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habblet.info:2050/a/hls1/tntseries.m3u8
+
+#EXTINF: -1 tvg-logo = "http://s21.postimg.org/wv3r1264z/tnt.png" group-title = "Filmes e Series", TNT Series
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habblet.info:2050/a/hls1/tntseries.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-max-prime-ao-vivo-online-24-horas-249x140.png" group- title = "Filmes e Series", Max Prime
+https://proxystream.canais.link:443/proxy.php?url=maxprime.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-max-prime-ao-vivo-online-24-horas-249x140.png" group- title = "Filmes e Series", Max Prime
+https://proxystream.canais.link:443/proxy.php?url=maxprime.m3u8
+
+
+#EXTINF: -1 TVG-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-max-hd-ao-vivo-online-24-horas-249x140.png" group- title = "Filmes e Series", Max
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habbo.net:2050/a/hls1/max.m3u8
+
+#EXTINF: -1 TVG-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-max-hd-ao-vivo-online-24-horas-249x140.png" group- title = "Filmes e Series", Max
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habbo.net:2050/a/hls1/max.m3u8
+
+
+#EXTINF: -1 TVG-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-max-up-hd-ao-vivo-online-24-horas-249x140.png" group-title = "Filmes e Series", Max Up
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.canais.org:2050/a/hls1/maxup.m3u8
+
+#EXTINF: -1 TVG-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-max-up-hd-ao-vivo-online-24-horas-249x140.png" group-title = "Filmes e Series", Max Up
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.canais.org:2050/a/hls1/maxup.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/Assistir-Warner-Ao-vivo-online-gr%C3%A1tis-HD-249x140.png" group-title = "Filmes e Series", Warner
+https://proxystream.canais.link:443/proxy.php?url=warner.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/Assistir-Warner-Ao-vivo-online-gr%C3%A1tis-HD-249x140.png" group-title = "Filmes e Series", Warner
+https://proxystream.canais.link:443/proxy.php?url=warner.m3u8
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/f9lq0eei3/paramount.png" group-title = "Filmes e Series", Paramount
+https://proxystream.canais.link:443/proxy.php?url=paramount.m3u8
+
+#EXTINF: -1 tvg-logo = "https://s31.postimg.org/f9lq0eei3/paramount.png" group-title = "Filmes e Series", Paramount
+https://proxystream.canais.link:443/proxy.php?url=paramount.m3u8
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/spacehd.png" group-title = "Filmes e Series", Espaço
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.ec.cx:2050/a/hls1/space.m3u8
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/spacehd.png" group-title = "Filmes e Series", Espaço
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.ec.cx:2050/a/hls1/space.m3u8
+
+
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-sony-ao-vivo-online-24-horas-1-249x140.png" group- title = "Filmes e Series", Sony
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.canais.org:2050/a/hls1/sony.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-sony-ao-vivo-online-24-horas-1-249x140.png" group- title = "Filmes e Series", Sony
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.canais.org:2050/a/hls1/sony.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/Assisitir-fx-ao-vivo-249x140.png" group-title = "Filmes e Series", FX
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.canais.vip:2050/a/hls1/fx.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/Assisitir-fx-ao-vivo-249x140.png" group-title = "Filmes e Series", FX
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.canais.vip:2050/a/hls1/fx.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-axn-ao-vivo-249x140.png" group-title = "Filmes e Series", AXN
+https://proxyts.canais.gratis:8443/hls1/axn.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-axn-ao-vivo-249x140.png" group-title = "Filmes e Series", AXN
+https://proxyts.canais.gratis:8443/hls1/axn.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-axn-ao-vivo-249x140.png" group-title = "Filmes e Series", AXN HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.canais.org:2050/a/hls1/axn.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/assistir-axn-ao-vivo-249x140.png" group-title = "Filmes e Series", AXN HD
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.canais.org:2050/a/hls1/axn.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/Assistir-Cinemax-Ao-vivo-Online-Gr%C3%A1tis-249x140.png" group- title = "Filmes e Series", Cinemax
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habblet.bz:2050/a/hls1/cinemax.m3u8
+
+#EXTINF: -1 tvg-logo = "https://multicanais.com/wp-content/uploads/2019/04/Assistir-Cinemax-Ao-vivo-Online-Gr%C3%A1tis-249x140.png" group- title = "Filmes e Series", Cinemax
+https://feedback.googleusercontent.com:443/gadgets/proxy?container=fbk&refresh=300&url=https://proxyts.habblet.bz:2050/a/hls1/cinemax.m3u8
+
+######################### ADULTOS ################################### #################
+
+EXTINF: -1 tvg-logo = "http://images.mi.tv/channels/br_canal-adulto_m.png" group-title = "ADULTOS", ADULTO 
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+
+EXTINF: -1 tvg-logo = "http://images.mi.tv/channels/br_canal-adulto_m.png" group-title = "ADULTOS", ADULTO 
+https://tinyurl.com/qkvffbx
+
+
+EXTINF: -1 tvg-logo = "http://images.mi.tv/channels/br_canal-adulto_m.png" group-title = "ADULTOS", ADULTO 
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/oClkd1D.png" group-title = "ADULTOS", BABESTATION
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/playlist.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX BIG TITS
+http://live.redtraffic.xyz/bigtits.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX BLOWJOB
+http://live.redtraffic.xyz/blowjob.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX Fetiche
+http://live.redtraffic.xyz/fetish.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX Latina
+http://live.redtraffic.xyz/latina.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX lésbicas
+http://live.redtraffic.xyz/lesbian.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX MILF
+http://live.redtraffic.xyz/milf.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX POV
+http://live.redtraffic.xyz/pov.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX russo
+http://live.redtraffic.xyz/russian.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX adolescente
+http://live.redtraffic.xyz/teen.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX TRANS 1
+https://www.ast.tv/stream/1/cellular.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX TRANS 1 HD
+https://www.ast.tv/stream/1/high.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX TRANS 1 FHD
+https://www.ast.tv/stream/1/ultra.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX TRANS 2
+https://www.ast.tv/stream/2/cellular.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX TRANS 2 HD
+https://www.ast.tv/stream/2/high.m3u8
+
+EXTINF: -1 tvg-logo = "http://i.imgur.com/IHWdGgv.png" group-title = "ADULTOS", XXX TRANS 2 FHD
+https://www.ast.tv/stream/2/ultra.m3u8
+
+#EXTINF: 0, RedTraffic TV Live Cams
+http://live.redtraffic.net/livecams.m3u8
+#EXTINF: 0, RedTraffic TV MILF
+http://live.redtraffic.net/milf.m3u8
+#EXTINF: 0, RedTraffic TV Big Dick
+http://live.redtraffic.net/bigdick.m3u8
+#EXTINF: 0, RedTraffic TV Big Tits
+http://live.redtraffic.net/bigtits.m3u8
+#EXTINF: 0, RedTraffic TV Fetish
+http: / /live.redtraffic.net/fetish.m3u8
+#EXTINF: 0, RedTraffic TV pornstar
+http://live.redtraffic.net/pornstar.m3u8
+#EXTINF: 0, RedTraffic TV Big Ass
+http://live.redtraffic.net/ bigass.m3u8
+#EXTINF: 0, RedTraffic TV Interracial
+http://live.redtraffic.net/interracial.m3u8
+#EXTINF: 0, RedTraffic TV Latina
+http://live.redtraffic.net/latina.m3u8
+#EXTINF: 0, RedTraffic TV POV
+http://live.redtraffic.net/pov.m3u8
+#EXTINF: 0, RedTraffic TV Boquete
+http: //live.redtraffic. net /
+boquete.m3u8 #EXTINF: 0, RedTraffic TV Teen
+http://live.redtraffic.net/teen.m3u8
+#EXTINF: 0, RedTraffic TV Hardcore
+http://live.redtraffic.net/hardcore.m3u8
+#EXTINF: 0, RedTraffic TV Cuckold
+http://live.redtraffic.net/cuckold.m3u8
+#EXTINF: 0, RedTraffic TV Threesome
+http://live.redtraffic.net/threesome.m3u8
+#EXTINF: 0, RedTraffic TV Russo
+http: / /live.redtraffic.net/russian.m3u8
+#EXTINF: 0, RedTraffic TV lésbica
+http://live.redtraffic.net/lesbian.m3u8
+#EXTINF: 0, RedTraffic TV Rough
+http://live.redtraffic.net/rough.m3u8
+#EXTINF: 0, RedTraffic TV Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF: 0, RedTraffic TV Anal
+http://live.redtraffic.net/anal.m3u8
+#EXTINF: 0, RedTraffic TV Compilation
+http://live.redtraffic.net/compilation.m3u8
+#EXTINF: 0, RedTraffic TV Brunette
+http: //live.redtraffic. net / brunette.m3u8
+#EXTINF: 0, RedTraffic TV Blonde
+http://live.redtraffic.net/blonde.m3u8
+#EXTINF: 0, RedTraffic TV Gay
+http://live.redtraffic.net/gay.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 3
+https://www.livedooMOVIES.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 4
+https://www.livedooMOVIES.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 5
+https://www.livedooMOVIES.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV LOCAL",TV ÁGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="FLMES", CLASSIQUE TV
+https://stmv6.srvstm.com/classique/classique/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Front Page Detective
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="USA TVS",TVS Western Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-name="Popcorn Flix Action" tvg-logo="https://i.imgur.com/CgYnCxA.png" group-title="USA Bumblebee",Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 tvg-name="Giniko Classic Cinema TV" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA GINIKO",Giniko Classic Cinema TV
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" ,Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f1eed3c29b39600073e2ec0" tvg-name="Os Três Patetas" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" ,Os Três Patetas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" ,Pluto TV Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" ,Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" ,Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f5a545d0dbf7f0007c09408" tvg-name="Pluto TV Filmes Nacionais" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" ,Pluto TV Filmes Nacionais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f121262a189a800076b9386" tvg-name="Pluto TV Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" ,Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+########### BEIN SPORT ###########
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/19.ts
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/111.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 1
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/19.ts
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/112.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 2
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/20.ts
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/113.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 3
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21.ts
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/114.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 4
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/15.ts
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/115.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 5
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/16.ts
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/116.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 6
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/17.ts
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/117.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 7 
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/18.ts
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/118.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 8 
+http://server.sibfungold.info:8080/ahmed/ahmed123/49616
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/510.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 9 
+http://server.sibfungold.info:8080/ahmed/ahmed123/49615
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/511.png" group-title="BEIN SPORT",[ALHIDAMART]BeInSport 10 
+http://server.sibfungold.info:8080/ahmed/ahmed123/49614
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports", True Premier 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true2.png" group-title="Sports", True Premier 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true3.png" group-title="Sports", True Premier 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true4.png" group-title="Sports", True Premier 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports", True Premier 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports.png" group-title="Sports", TrueSport 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports2.png" group-title="Sports", TrueSport 2 FHD
+http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports2.png" group-title="Sports", TrueSport 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports3.png" group-title="Sports", TrueSport 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports4.png" group-title="Sports", TrueSport 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports5.png" group-title="Sports", TrueSport 5
+https://www.livedoomovies.com/02_2sporthd5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="Sports", SPORT TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv2.png" group-title="Sports", SPORT TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv3.png" group-title="Sports", SPORT TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv4.png" group-title="Sports", SPORT TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Sports", SPORT TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/alkassone.png" group-title="Sports" group-title="Sports",AL KASS ONE
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master570.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/alkasstwo.png" group-title="Sports" group-title="Sports",AL KASS TWO
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master570.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/alkassfour.png" group-title="Sports" group-title="Sports",AL KASS FOUR
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master570.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/alkassfive.png" group-title="Sports" group-title="Sports",AL KASS FIVE
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master570.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/alkass.png" group-title="Sports" group-title="Sports",AL KASS ONLINE
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master570.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports1.png" group-title="Sports", DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports2.png" group-title="Sports", DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports3.png" group-title="Sports", DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports1.png" group-title="Sports", ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports2.png" group-title="Sports", ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports3.png" group-title="Sports", ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports4.png" group-title="Sports", ABU DHABI SPORTS 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="racing.com" tvg-logo="http://kamiselaluada.com/img/racingcom.png" group-title="Sports",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-id="nbatv"  tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="Sports",NBA
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tennis.png" group-title="Sports",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://kamiselaluada.com/img/redbulltv.png" group-title="Sports", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="redbulltv" tvg-logo="http://kamiselaluada.com/img/redbulltv.png" group-title="Sports", Redbull TV 2
+http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png" group-title="FEED SPORTS",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo=FutebolPlayHD.com	
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo=FutebolPlayHD.com
+#EXTINF:-1,iptvtools_1
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+#EXTINF:-1,iptvtools_2
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_1000/index.m3u8
+#EXTINF:-1,iptvtools_3
+#EXTINF:-1,Sport TV 1 PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13097
+#EXTINF:-1,Sport TV 1 HD (ALT) PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13096
+#EXTINF:-1,Sport TV 1 HD (LBR) PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13095
+#EXTINF:-1,Sport TV 1 FHD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/8818
+#EXTINF:-1,Sport TV 2 PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13093
+#EXTINF:-1,Sport TV 2 HD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/8814
+#EXTINF:-1,Sport TV 2 HD (LBR) PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13092
+#EXTINF:-1,Sport TV 2 FHD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7481
+#EXTINF:-1,Sport TV 3  PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7480
+#EXTINF:-1,Sport TV 3 PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13091
+#EXTINF:-1,Sport TV 3 HD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/8813
+#EXTINF:-1,Sport TV 3 HD (LBR) PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13090
+#EXTINF:-1,Sport TV 3 FHD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/8817
+#EXTINF:-1,Sport TV 4 PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13089
+#EXTINF:-1,Sport TV 4 HD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7479
+#EXTINF:-1,Sport TV 4 HD (LBR) PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13088
+#EXTINF:-1,Sport TV 4 FHD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/8816
+#EXTINF:-1,Sport TV 5 PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13087
+#EXTINF:-1,Sport TV 5 HD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/8812
+#EXTINF:-1,Sport TV 5 HD (LBR) PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/13086
+#EXTINF:-1,Sport TV 5 FHD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7478
+#EXTINF:-1,BTV 1 PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/12524
+#EXTINF:-1,BTV 1 FHD PT
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/12521
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 3
+https://www.livedooMOVIES.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 4
+https://www.livedooMOVIES.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 5
+https://www.livedooMOVIES.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",BT sport 1
+https://www.livedooMOVIES.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",BT sport 2
+https://www.livedooMOVIES.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO
+http://136.243.177.164/HBO/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO 2
+http://136.243.177.164/HBO2/index.m3u8?h=308R7a2QNxrbpmxlKw8Ahw
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HBO 3
+http://136.243.177.164/HBO3/index.m3u8?h=teJ1EKfjMkWIRvFHlkJG-Q
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://x1.cdn.broiptv.online/img/fox.png" group-title="MOVIES",Fox
+http://103.47.132.165/PLTV/88888888/224/3221227137/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox action MOVIES" tvg-logo="https://x1.cdn.broiptv.online/img/fox_action.png" group-title="MOVIES",Fox action MOVIES
+http://103.47.132.165/PLTV/88888888/224/3221227121/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family MOVIES" tvg-logo="https://x1.cdn.broiptv.online/img/fox_family.png" group-title="MOVIES",Fox Family MOVIES
+http://103.47.132.165/PLTV/88888888/224/3221227117/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox MOVIES Premium" tvg-logo="https://x1.cdn.broiptv.online/img/fox_crime.png" group-title="MOVIES",Fox Crime
+http://103.47.132.165/PLTV/88888888/224/3221227165/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox life" tvg-logo="https://x1.cdn.broiptv.online/img/fox_life.png" group-title="MOVIES",Fox Life
+http://103.47.132.165/PLTV/88888888/224/3221227277/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox MOVIES Premium" tvg-logo="https://x1.cdn.broiptv.online/img/fox_MOVIES.png" group-title="MOVIES",Fox MOVIES
+http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://x1.cdn.broiptv.online/img/fx.png" group-title="MOVIES",FX
+http://103.47.132.165/PLTV/88888888/224/3221227139/2.m3u8
+#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="MOVIES",Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="MOVIES",Sony Movies Action
+http://51.52.156.22:8888/http/009
+#EXTINF:-1   tvg-logo="" group-title="MOVIES",AXN WHITE
+http://193.33.39.108:8111/11002
+#EXTINF:-1   tvg-logo="" group-title="MOVIES",AXN BLACK
+http://193.33.39.108:8111/11003
+#EXTINF:-1   tvg-logo="" group-title="MOVIES",AXN
+http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1   tvg-logo="" group-title="MOVIES",Canal 2 (Молдова)
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/fox_thai.jpg" group-title="MOVIES",FOX Thai HD
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1,|PT|HEVC| BTV 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81786
+#EXTINF:-1,|PT|HEVC| A BOLA TV HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81785
+#EXTINF:-1,|PT|HEVC| SPORTING TV HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81784
+#EXTINF:-1,|PT|HEVC| EUROSPORT 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81783
+#EXTINF:-1,|PT|HEVC| SPORT TV + HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81782
+#EXTINF:-1,|PT|HEVC| SPORT TV 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81781
+#EXTINF:-1,|PT|HEVC| SPORT TV 2 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81780
+#EXTINF:-1,|PT|HEVC| SPORT TV 3 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81779
+#EXTINF:-1,|PT|HEVC| SPORT TV NBA HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81778
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81777
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 2 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81776
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS  3 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81775
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 4 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81774
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 5 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81773
+#EXTINF:-1,|PT|HEVC| ELEVEN SPORTS 6 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81772
+#EXTINF:-1,|PT|HEVC| FIGHT NETWORK HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81771
+#EXTINF:-1,|PT|HEVC| CANAL 11 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81770
+#EXTINF:-1,|PT|HEVC| CMTV HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81769
+#EXTINF:-1,|PT| TVCINE TOP HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81720
+#EXTINF:-1,|PT| TVCINE EDITION HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81719
+#EXTINF:-1,|PT| TVCINE EMOTION HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81718
+#EXTINF:-1,|PT| TVCINE ACTION HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81717
+#EXTINF:-1,|PT| TVCINE EDITION
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81716
+#EXTINF:-1,|PT| TVCINE ACTION
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81715
+#EXTINF:-1,|PT| SYFY
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81709
+#EXTINF:-1,|PT| NOS STUDIO HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81708
+#EXTINF:-1,|PT| NOS STUDIOS HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81707
+#EXTINF:-1,|PT| TV SERIES HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81678
+#EXTINF:-1,|PT| TV SERIES
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81677
+#EXTINF:-1,|PT| BTV 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81664
+#EXTINF:-1,|PT| A BOLA TV
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81663
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81662
+#EXTINF:-1,|PT| SPORTING TV
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81661
+#EXTINF:-1,|PT| FUEL TV
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81660
+#EXTINF:-1,|PT| EUROSPORT 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81659
+#EXTINF:-1,|PT| EUROSPORT 1
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81658
+#EXTINF:-1,|PT| EUROSPORT 2
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81657
+#EXTINF:-1,|PT| PFC
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81656
+#EXTINF:-1,|PT| CMTV
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81655
+#EXTINF:-1,|PT| TOROS TV
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81654
+#EXTINF:-1,|PT| SPORT TV
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81653
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81652
+#EXTINF:-1,|PT| SPORT TV 1 HD NOS
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81651
+#EXTINF:-1,|PT| SPORT TV 1
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81650
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81649
+#EXTINF:-1,|PT| SPORT TV 2
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81648
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81647
+#EXTINF:-1,|PT| SPORT TV 3
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81646
+#EXTINF:-1,|PT| SPORT TV 4
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81645
+#EXTINF:-1,|PT| SPORT TV 5
+http://ip.mooniptv.cz:80/691672171663533/691672171663533/81644
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 1
+https://www.livedooMOVIES.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 2
+https://www.livedooMOVIES.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 3
+https://www.livedooMOVIES.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 4
+https://www.livedooMOVIES.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports Update 2",Sport Tv 5
+https://www.livedooMOVIES.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
+http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="Sports", SPORT TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv2.png" group-title="Sports", SPORT TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv3.png" group-title="Sports", SPORT TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv4.png" group-title="Sports", SPORT TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Sports", SPORT TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
